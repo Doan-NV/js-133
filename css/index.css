@@ -1,0 +1,10 @@
+/* // */
+/* coi class cach truy cap laf .tenclass
+voi id: #tenid */
+body {
+    background-color: antiquewhite;
+}
+.main-class {
+    background-color: rebeccapurple;
+    border: 5px solid #333;
+}
